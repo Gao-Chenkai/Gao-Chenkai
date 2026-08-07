@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Gao-Chenkai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gao-Chenkai" height="30" width="40" /></a>
-<a href="https://instagram.com/Krypton5525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krypton5525" height="30" width="40" /></a>
+<a href="https://instagram.com/kryptongao5525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krypton5525" height="30" width="40" /></a>
 <a href="https://twitter.com/KryptonGao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KryptonGao" height="30" width="40" /></a>
 </p>
 
