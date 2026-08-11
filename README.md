@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gao-Chenkai
+# Hi 👋, I'm Gao Chenkai
 
 ### A passionate Swift developer
 
