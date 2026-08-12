@@ -11,7 +11,7 @@
 
 ## About me
 
-Hi, I’m **Gao Chenkai** — you may also know me as **Noxen**. I’m an iOS developer, a curious builder, and someone who enjoys taking a complicated idea and finding its smallest useful shape.
+Hi, I’m **Gao Chenkai** — you may also know me as **Krypton**. I’m an iOS developer, a curious builder, and someone who enjoys taking a complicated idea and finding its smallest useful shape.
 
 I like making things that feel clear and human: starting from a rough thought, learning whatever the problem requires, and gradually turning it into something real. I’m especially drawn to apps that help people learn, plan, reflect, or make better use of their time.
 
